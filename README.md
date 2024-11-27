@@ -17,3 +17,10 @@ Note: In very simple cases, you may want to inline the JS and CSS directly into 
 
 1. clone this repo
 2. hack away :)
+
+## Deploying
+
+Once you're done building your bookmarklet, you'll need to:
+
+1. host main.js and style.css
+2. update the link in index.html (that starts with `javascript:` to point to your hosted files)
