@@ -1,2 +1,2 @@
-console.log('well done');
-console.log('you did it');
+console.log('hello');
+console.log('world');
